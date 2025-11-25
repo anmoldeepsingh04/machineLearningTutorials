@@ -1,4 +1,6 @@
 {
     "notebook.output.scrolling": false,
-    "notebook.output.textLineLimit": 20
+    "notebook.output.textLineLimit": 20,
+    "python.languageServer": "Pylance"
+
 }
